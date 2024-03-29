@@ -10,10 +10,10 @@ export function Footer() {
           <span>&copy;</span> 2023 Darek Radke
         </p>
         <Link href={"/"} className="font-Anton text-2xl">
-          <span className="text-button-primary text-4xl">INSIGHT</span> Personal Training
+          <h1 className="text-button-primary text-4xl">Vitalize</h1>Hair&Makeup
         </Link>
         <Link href={"/contact"} className="text-xl">
-          Free Evaluations!
+          Free Consultations!
         </Link>
       </div>
     </>
